@@ -6,7 +6,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Danieru0Web&show_icons=true&count_private=true&hide_border=true&title_color=0000CD_color=ff91a4&text_color=c9d1d9&bg_color=191970" alt="Daniel Victor github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danieru0Web&layout=compact&hide_border=true&title_color=ff91a4&text_color=191970&bg_color=191970" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danieru0Web&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=191970" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Danieru0Web&bg_color=191970&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
